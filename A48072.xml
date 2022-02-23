@@ -1,0 +1,447 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from on board Major General Kirke giving a full account of the posture of affairs of London-Derry and their resolution to hold out that garrison for the service of King William and Queen Mary : with a list of the Irish forces, the officers slain, and the prisoners taken.</title>
+            <author>Billing, R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48072</idno>
+            <idno type="STC">Wing L1493</idno>
+            <idno type="STC">ESTC R30942</idno>
+            <idno type="EEBO-CITATION">11732208</idno>
+            <idno type="OCLC">ocm 11732208</idno>
+            <idno type="VID">48401</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48072)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48401)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1486:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from on board Major General Kirke giving a full account of the posture of affairs of London-Derry and their resolution to hold out that garrison for the service of King William and Queen Mary : with a list of the Irish forces, the officers slain, and the prisoners taken.</title>
+                  <author>Billing, R.</author>
+                  <author>Kirke, Percy, 1646?-1691.</author>
+               </titleStmt>
+               <extent>1 sheet [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated and signed: Derry Lough, on board the Swallow, July 15, 1689, R. Billing.</note>
+                  <note>Reproduction of original in Chetham's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:48401:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <head>A LETTER From on Board <hi>Major General Kirke.</hi>
+            </head>
+            <head type="sub">Giving a Full Account of the Poſture of Affairs of London-Derry <hi>And their Reſolution to Hold out that Garriſon for the Service of King <hi>William</hi> and Queen <hi>Mary.</hi>
+               </hi>
+            </head>
+            <head type="sub">With a LIST of the Iriſh Forces, the Officers Slain, and Priſoners Taken.</head>
+            <argument>
+               <p>
+                  <hi>Licenſed, <hi>J. F.</hi>
+                  </hi> 
+                  <date>July 27. 1689.</date>
+               </p>
+            </argument>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE are all glad of the News you ſend us, of the ſpeedy Succors deſigned to join us. The River of <hi>Derry</hi> is ſo blocked and boomed up, that we cannot relieve it by the River with our ſmall Forces: how<g ref="char:EOLhyphen"/>ever we have tried another Trick; we have land<g ref="char:EOLhyphen"/>ed half our Forces at an Iſland called <hi>Inch,</hi> in <hi>Lough Swilley,</hi> which is within Five Miles of the Enemies Camp, and have had good Succeſs: There is but one way to Ford it, which is about Muſquet-ſhot long; and our Men have entrench'd, and built a Redoubt, and have ſecured themſelves well, and are encreaſed in their number with Proteſtants, a<g ref="char:EOLhyphen"/>bove a thouſand, and expect greater numbers will join within five or ſix days, where we have Arms for them; and to morrow all our Forces leave this place, and go thither, which terrifies the Enemy very much, and had we but 500 Horſe, we would not queſtion to raiſe the Siege. Our Men has alrea<g ref="char:EOLhyphen"/>dy ſtockt their Iſland with a thouſand Head of Cat<g ref="char:EOLhyphen"/>tle, and expect to take many more. It's a brave Iſland to refreſh our Horſes Limbs, after their Sea-Voyage. We have ſent Arms and Ammunition, with ſome Forces, to the Proteſtants at <hi>Enniskilling,</hi> who are ſtrong, 1500 good Horſe, one Regiment of Dragoons, four Regiments of Foot, of ſixty in a Company, and eighteen Companies in a Regi<g ref="char:EOLhyphen"/>ment; theſe will fight their way to us. I hope <hi>Derry</hi> Mens Proviſion will hold out until they joyn with us. <hi>Enniskilling</hi> Men have great Droves of Cattle and Proviſion with them; they have often been out twenty Miles from home, and has beat the Enemy where-ever they met them, and have lately took Coll. <hi>Scot,</hi> with thirteen Officers, and three hundred Souldiers, which were guarding Arms and Proviſions, which all fell into their Hands, and there were three thouſand of them, but they fled at the firſt Firing, and left thoſe Proviſions with 1000 <hi>French</hi> Arms. The Enemy, in all appearance, if there were but any formidable Army againſt them, would certainly be routed: They have in all their Attacks upon <hi>Derry</hi> receiv'd great loſſes, that their Men are ſo bauked they deſert in numbers.</p>
+            <p>The Meſſenger that went into <hi>Derry</hi> told me, That the People of <hi>Derry</hi> are in good Heart, and that they have a Barrel of Powder made every day in the Town; and that they treated him with Bread and good ſalt Beef, and ſtrong Drink, and drank King <hi>William</hi> and Queen <hi>Mary</hi>'s Health heartily, and prayed for their Proſperity, reſolving never to truſt a Papiſt, as having never kept his Promiſe; and that if they had never ſo many
+<pb n="2" facs="tcp:48401:2"/>
+               <!-- PDF PAGE 93 -->
+Lives, they would ſell them all for the Proteſtant Intereſt.</p>
+            <p>The little Veſſel that came to us from <hi>Liverpoole,</hi> being called the <hi>Wheel of Fortune,</hi> ſet Sail out of that Port on the Tenth inſtant, and being in the Bay of <hi>Carick fergus,</hi> heard great ſhooting, but coming out of the Bay, took a Boat with Three Iriſh men, and Three Highlanders, having three Muskets, four Skeanes, and four Swords, by whom they underſtood, that there was Three French men of War, and that the ſhooting was for Joy they had taken the 2 Scotch Frigats, the Men having behaved themſelves very well, all refuſing Quarter but twelve; and that theſe Boat-men were going to the Highlands to fetch ſome of <hi>Dundee</hi>'s Followers Wives, to bring them to <hi>Ireland,</hi> believing <hi>Scotland</hi> not ſafe for them.</p>
+            <closer>
+               <dateline>
+                  <hi>Derry Lough,</hi> on Board the <hi>Swallow,</hi> 
+                  <date>July 15. 1689.</date>
+               </dateline>
+               <signed>R. Billing</signed>
+            </closer>
+         </div>
+         <div type="list_of_regiments_slain_and_prisoners">
+            <head>A LIST of all the <hi>Iriſh</hi> Forces, and of the Slain, and Priſoners at <hi>LONDON-DERRY.</hi>
+            </head>
+            <list>
+               <item>
+                  <list>
+                     <head>Regiments of Horſe.</head>
+                     <item>1. DUke of <hi>Tyrconnel.</hi>
+                     </item>
+                     <item>2. Lord <hi>Galmoy.</hi>
+                     </item>
+                     <item>3. Coll. <hi>Sarsfield.</hi>
+                     </item>
+                     <item>4. Coll. <hi>Southerland.</hi>
+                     </item>
+                     <item>5. Lord <hi>Abercorne.</hi>
+                     </item>
+                     <item>6. Coll. <hi>Lutteril.</hi>
+                     </item>
+                     <item>7. Coll. <hi>Parker.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Dragoons.</head>
+                     <item>1. Lord <hi>Dungan.</hi>
+                     </item>
+                     <item>2. Sir <hi>N. O Neile.</hi>
+                     </item>
+                     <item>3. Coll. <hi>Dan. Brian.</hi>
+                     </item>
+                     <item>4. Coll. <hi>Nich. Purcell.</hi>
+                     </item>
+                     <item>5. Coll. <hi>Symon Lutteril.</hi>
+                     </item>
+                     <item>6. Coll. <hi>Clifford.</hi>
+                     </item>
+                     <item>7. Sir <hi>James Cotter.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Foot Regiments.</head>
+                     <item>1. Royal Regiment.</item>
+                     <item>2. Coll. <hi>John Hamilton.</hi>
+                     </item>
+                     <item>3. Coll. <hi>Ramſey.</hi>
+                     </item>
+                     <item>4. Earl of <hi>Clancarty.</hi>
+                     </item>
+                     <item>5. Coll. <hi>Anth. Hamilton.</hi>
+                     </item>
+                     <item>6. Earl of <hi>Clanrickard.</hi>
+                     </item>
+                     <item>7. Earl of <hi>Antrim.</hi>
+                     </item>
+                     <item>8. Lord <hi>Gormonſtown.</hi>
+                     </item>
+                     <item>9. Lord <hi>Clare.</hi>
+                     </item>
+                     <item>10. Lord <hi>Lowth.</hi>
+                     </item>
+                     <item>11. Lord <hi>Dulceke.</hi>
+                     </item>
+                     <item>12. Lord <hi>Galloway.</hi>
+                     </item>
+                     <item>13. Lord <hi>Slane.</hi>
+                     </item>
+                     <item>14. Sir <hi>Val. Browne.</hi>
+                     </item>
+                     <item>15. Sir <hi>John Fitz-Gerard.</hi>
+                     </item>
+                     <item>16. Sir <hi>Maurice Euſtace.</hi>
+                     </item>
+                     <item>17. <hi>William Nugent.</hi>
+                     </item>
+                     <item>18. <hi>Henry Dillon.</hi>
+                     </item>
+                     <item>19. <hi>John Grace.</hi>
+                     </item>
+                     <item>20. <hi>Richard Butler.</hi>
+                     </item>
+                     <item>21. <hi>Edward Butler.</hi>
+                     </item>
+                     <item>22. <hi>Walter Butler.</hi>
+                     </item>
+                     <item>23. <hi>John Bourke.</hi>
+                     </item>
+                     <item>24. <hi>Charles Moor.</hi>
+                     </item>
+                     <item>25. <hi>Con. O Niele.</hi>
+                     </item>
+                     <item>26. <hi>Charles Cavanagh.</hi>
+                     </item>
+                     <item>27. <hi>Gordon O Niele.</hi>
+                     </item>
+                     <item>28. <hi>Nich Browne.</hi>
+                     </item>
+                     <item>29. Sir <hi>Michael Creagh.</hi>
+                     </item>
+                     <item>30. <hi>Bryan Mac Mahone.</hi>
+                     </item>
+                     <item>31. Coll. <hi>O Toole.</hi>
+                     </item>
+                     <item>32. <hi>Howard Oxborough.</hi>
+                     </item>
+                     <item>33. <hi>Mac Carthy Moore.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Disbanded <hi>June</hi> 15th, as believing no Force to come from <hi>England.</hi>
+                     </head>
+                     <item>1. Coll. <hi>Barret.</hi>
+                     </item>
+                     <item>2. Coll. <hi>Farrel.</hi>
+                     </item>
+                     <item>3. Coll. <hi>Bagnall.</hi>
+                     </item>
+                     <item>4. Lord <hi>Tyrone.</hi>
+                     </item>
+                     <item>5. <hi>Donogh O Brian.</hi>
+                     </item>
+                     <item>6. Lord <hi>Evagh.</hi>
+                     </item>
+                     <item>7. <hi>Mac Carthy Reagh.</hi>
+                     </item>
+                     <item>8. Lord <hi>Kilmallock.</hi>
+                     </item>
+                     <item>9. <hi>Dominick Browne.</hi>
+                     </item>
+                     <item>10. <hi>Daniel O Donevan.</hi>
+                     </item>
+                     <item>11. Lord <hi>Mount-Caſtle.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Officers killed.</head>
+                     <item>1. Lieut.-Gen. <hi>Mamooe.</hi>
+                     </item>
+                     <item>2. Lieut.-Gen. <hi>Puſignan.</hi>
+                     </item>
+                     <item>3. Major <hi>Toole.</hi>
+                     </item>
+                     <item>4. Maj. <hi>Nangle</hi> drown'd.</item>
+                     <item>5. Coll. <hi>Ramſey.</hi>
+                     </item>
+                     <item>6. Major <hi>Reigan.</hi>
+                     </item>
+                     <item>7. Lieut.-Coll. <hi>Farrel.</hi>
+                     </item>
+                     <item>8. Capt. <hi>Fitz-Gerald.</hi>
+                     </item>
+                     <item>9. Capt. <hi>Fleming.</hi>
+                     </item>
+                     <item>10. Capt. <hi>Barnwell.</hi>
+                     </item>
+                     <item>11. Capt. <hi>Graham.</hi>
+                     </item>
+                     <item>12. Capt. <hi>Kelly.</hi>
+                     </item>
+                     <item>13. Capt. <hi>Watſon.</hi>
+                     </item>
+                     <item>14. C. <hi>Lawton.</hi>
+                     </item>
+                     <item>15. C. <hi>Plunkett.</hi>
+                     </item>
+                     <item>16. C. <hi>Mac Cane.</hi>
+                     </item>
+                     <item>17. C. <hi>Farrel.</hi>
+                     </item>
+                     <item>18. C. <hi>Smith.</hi>
+                     </item>
+                     <item>19 C. <hi>Cheevers.</hi>
+                     </item>
+                     <item>20. C. <hi>Pen.</hi>
+                     </item>
+                     <item>21. Major <hi>Taaf.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Wounded.</head>
+                     <item>1. Capt. <hi>Arthur.</hi>
+                     </item>
+                     <item>2. Monſieur <hi>Du Pointee,</hi> the great Engineer, and ſince dead.</item>
+                     <item>3. Coll. <hi>Dorrington.</hi>
+                     </item>
+                     <item>4. Coll. <hi>Vaughan.</hi>
+                     </item>
+                     <item>5. Coll. <hi>Nugent.</hi>
+                     </item>
+                     <item>6. Lieut-Coll. <hi>Euſtace.</hi>
+                     </item>
+                     <item>7. Major <hi>Farrol.</hi>
+                     </item>
+                     <item>8. Capt. <hi>Plunkett.</hi>
+                     </item>
+                     <item>9. C. <hi>Fray.</hi>
+                     </item>
+                     <item>10. C. <hi>Burke.</hi>
+                     </item>
+                     <item>11. C. <hi>Thomas Bourke.</hi>
+                     </item>
+                     <item>12. C. <hi>Thomas Nugent.</hi>
+                     </item>
+                     <item>13. C. <hi>Oxborough.</hi>
+                     </item>
+                     <item>14. 2 <hi>French</hi> Lieutenants.</item>
+                     <item>15. Lord <hi>Talbot.</hi>
+                     </item>
+                     <item>16. Lieut. <hi>Barnwell.</hi>
+                     </item>
+                     <item>17. Lieut. <hi>Fitz-Gerald.</hi>
+                     </item>
+                     <item>18. Enſign <hi>Engliſh.</hi>
+                     </item>
+                     <item>19. Enſign <hi>Welch.</hi>
+                     </item>
+                     <item>20. Cornet <hi>Purcell.</hi>
+                     </item>
+                     <item>21. Cornet <hi>Darcy.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Priſoners taken.</head>
+                     <item>1. Lord <hi>Nettervil.</hi>
+                     </item>
+                     <item>2. Lieut.-Coll. <hi>Talbot.</hi>
+                     </item>
+                     <item>3. Sir <hi>Garret Aylmer.</hi>
+                     </item>
+                     <item>4. Capt. <hi>Manus Buff.</hi>
+                     </item>
+                     <item>5. Lieut. <hi>Newcomen.</hi>
+                     </item>
+                     <item>6. Lieut. <hi>Macdonnel.</hi>
+                     </item>
+                     <item>7. Lieut. <hi>Euſtace.</hi>
+                     </item>
+                     <item>8. <hi>Thomas Nugent.</hi>
+                     </item>
+                     <item>9. Two <hi>French</hi> Lieute<g ref="char:EOLunhyphen"/>nants.</item>
+                     <item>10. Lieut. <hi>Devereux.</hi>
+                     </item>
+                     <item>11. Lieut. <hi>Welch.</hi>
+                     </item>
+                     <item>12. Lieut. <hi>Connel.</hi>
+                     </item>
+                     <item>13. Lieut. <hi>Rich. Euſtac<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>14. <hi>Sandy Euſtace.</hi>
+                     </item>
+                     <item>15. Enſign <hi>Kenny.</hi>
+                     </item>
+                     <item>16. Enſign <hi>Arch-bold.</hi>
+                     </item>
+                     <item>17. <hi>Maurice Euſtace.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Acts of Parliament paſſed by K. <hi>James.</hi>
+                     </head>
+                     <item>1. Supply of 260000 <hi>l.</hi> in Thirteen Months.</item>
+                     <item>2. A General Liberty of Conſcience.</item>
+                     <item>3. Act of Settlement Repealed.</item>
+                     <item>4. Taking off the Benefit of Clergy Two Years.</item>
+                     <item>5. Taking of 12 <hi>d. per</hi> Pound from Clergy Benefi<g ref="char:EOLunhyphen"/>ced in Corporations.</item>
+                     <item>6. Preventing Appeals to <hi>England.</hi>
+                     </item>
+                     <item>7. Againſt Counterfeiting Foreign Coyn.</item>
+                     <item>8. Repealing the Act of 23 <hi>October,</hi> 1641:</item>
+                     <item>9. Repealing <hi>Poinings</hi> Laws.</item>
+                     <item>10. All Pattentees for Life only.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>J. Wilſon,</hi> at <hi>Charing-Croſs.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
